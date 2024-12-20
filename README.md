@@ -10,6 +10,7 @@ CodeQuest is an interactive quiz game designed to help aspiring developers prepa
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Setup and Usage](#setup-and-usage)
+- [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 - [Credits](#credits)
@@ -82,6 +83,12 @@ Follow these steps to set up and run CodeQuest on your Windows machine:
    - Start by entering the welcome screen and providing the required input.
    - Choose a difficulty level and begin answering questions.
    - Review your performance at the end of the quiz.
+
+---
+
+## Demo
+
+For a quick demonstration of the game, watch the [video demo](https://drive.google.com/file/d/18Dn_f2ccfIuf_s_BExgIg-c-02Diu8zm/view?usp=sharing).
 
 ---
 
